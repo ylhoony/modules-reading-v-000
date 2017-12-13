@@ -12,4 +12,5 @@ puts "#{hoon.jump}"
 puts "#{hoon.take_a_bow}"
 
 puts Dancer.metadata
+puts Kid.metadata
 
