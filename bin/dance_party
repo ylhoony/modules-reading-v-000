@@ -11,6 +11,5 @@ hoon = Kid.new("Hoon")
 puts "#{hoon.jump}"
 puts "#{hoon.take_a_bow}"
 
-puts Dancer.metadata
-puts Kid.metadata
-
+puts "Dander metadata: #{Dancer.metadata}""
+puts "Kid metadata: #{Kid.metadata}""
