@@ -1,3 +1,6 @@
-module ModuleName
+module MetaDancing
 
+  def metadata
+    
+  end
 end
